@@ -1,2 +1,2 @@
 # VSMS
-Hello toto je moje prve cvicenie.git
+Hello toto je moje prve cvicenie.
